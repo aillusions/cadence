@@ -30,7 +30,6 @@ services:
       - statsd
 
   # http://localhost:8088
-
   cadence-web:
     image: ubercadence/web:latest
     environment:

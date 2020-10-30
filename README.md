@@ -15,3 +15,6 @@ cadence --domain samples-domain workflow list -op
 cadence --domain samples-domain workflow terminate -wid 3f6d7e68-18b5-4dc4-a779-adacafaca60f
 
 
+Temporal
+
+    https://stackoverflow.com/questions/61157400/temporal-workflow-vs-cadence-workflow
